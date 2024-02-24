@@ -12,7 +12,7 @@ Contact and Inquiry Forms: Enable visitors to easily get in touch with Solution 
 Installation
 
 To deploy the Solution Squad Company Website, follow these steps:
-Clone the repository: git clone https://github.com/yourusername/solution-squad-website.git
+Clone the repository: git clone https://github.com/stephenthangaraja/solution-squad-website.git
 Navigate to the project directory: cd solution-squad-website
 Customize the content, branding, and design according to Solution Squad's preferences.
 Host the website on your preferred web hosting service or server.
